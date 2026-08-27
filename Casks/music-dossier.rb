@@ -1,6 +1,6 @@
 cask "music-dossier" do
-  version "0.2.1"
-  sha256 "f1391beb363aa111fdca1f1ca2edcf76e60dcc42d8b6ba8811b5a24f54776889"
+  version "0.2.2"
+  sha256 "8d3c097c763df1ed2bce89df657306bc8f6405972a727107e8f3287f99cb1ff5"
 
   url "https://github.com/waytosea-oss/music-dossier/releases/download/v#{version}/MusicDossier-v#{version}-arm64.zip"
   name "Music Dossier"
